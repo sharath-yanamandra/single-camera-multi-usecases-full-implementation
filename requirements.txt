@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+ultralytics==8.0.196
+google-cloud-storage==2.10.0
+mysql-connector-python==8.1.0
+numpy==1.24.3
+Pillow==10.0.0
+python-dotenv==1.0.0
